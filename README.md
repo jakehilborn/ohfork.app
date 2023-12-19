@@ -1,4 +1,4 @@
-# [ohfork.app](https://ohfork.app)
+# [https://ohfork.app](https://ohfork.app)
 <img align="right" src="https://github.com/jakehilborn/ohfork.app/assets/5554178/671ecb64-9358-417f-81c7-1d0bbb4ca186">
 Substitute your eBook for your own cookbook app
 
