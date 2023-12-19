@@ -1,10 +1,6 @@
 # [ohfork.app](https://ohfork.app)
-
+<img align="right" src="https://github.com/jakehilborn/ohfork.app/assets/5554178/671ecb64-9358-417f-81c7-1d0bbb4ca186">
 Substitute your eBook for your own cookbook app
-
-<div align="center" width="200">
-  <video width="200" src="https://github.com/jakehilborn/ohfork.app/assets/5554178/786861bc-b2d0-41aa-a60d-11fa39be1207" style="max-width: 200px;"></video>
-</div>
 
 ## As easy as pie
 Create and sell your digital cookbook in hours. No design expertise or coding needed. ohfork was made to build and sell your cookbook app. No information overload like creating an eBook from scratch.
